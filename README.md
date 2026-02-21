@@ -54,3 +54,5 @@ javac MineGames.java
 ---
 
 ## Author
+
+Developed by Monty
