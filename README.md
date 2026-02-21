@@ -35,3 +35,12 @@ javac MineGames.java
 
 ## ✨ Features
 
+- Interactive button-based grid
+- Emoji display (❤️ and 💣)
+- Score counter
+- Game Over popup
+- Random bomb placement each game
+
+---
+
+## 
