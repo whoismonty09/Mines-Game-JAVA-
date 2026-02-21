@@ -43,4 +43,14 @@ javac MineGames.java
 
 ---
 
-## 
+## 🚀 Future Enhancements
+
+- Add Restart button
+- Add Timer
+- Add Difficulty Levels
+- Add Sound Effects
+- Store High Score
+
+---
+
+## Author
