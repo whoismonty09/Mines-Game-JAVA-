@@ -29,7 +29,9 @@ Mine Games is a simple Java Swing game inspired by Minesweeper. The player click
 1. Install Java JDK.
 2. Open the project in VS Code.
 3. Compile and run the program:
-
-```bash
 javac MineGames.java
-java MineGames
+
+---
+
+## ✨ Features
+
